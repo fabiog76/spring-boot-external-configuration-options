@@ -1,4 +1,4 @@
 welcome:
   message: Hello welcome to Always-be-learner dev
 server:
-  port: 8585
+  port: 8584
